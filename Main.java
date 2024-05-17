@@ -17,5 +17,7 @@ public class Main {
         System.out.println("Age:\t" + age);
         System.out.println("City:\t" + placeOfResidence);
         System.out.println("Hobby:\t" + myHobby);
+        System.out.println("Second variant (string format): ");
+        System.out.println("Man called " + name + " lives in town " + placeOfResidence + ". He/ is " + age + " and he loves " + myHobby + ".");
     }
 }
